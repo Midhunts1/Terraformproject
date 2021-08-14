@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "spartan-apricot-322906",
+  "private_key_id": "9f6b9a5e91c16da724ebade8af384756167c6711",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCgdPJzOiFDE1hr\n8BgrRQRoFXqjTZbBKWeMEauSv2bhAamOMoku4ojrCMErCROCCMab8HKZrMTGXHL7\ntPewC3+RkBLGtpsVvmz/Dv8V7Cty6HrKOEqV9fwq5xNDXLzGmcWf2giX+bTxMn6p\n4pKoFcTrCrv0Ze01IjjzHGWwZMFWW634QBrRNUCxEox21Olk1UDL4VUuLkzYU8JI\nYdUs+9NbKih6IiqxHGtcP2qWmwbYP+6UmhN7Ij/FP4NqGvmpVDP55wDUWu6rV3vk\nlgnyHLC0vOtOq5aYEyJcJzB3z6B6V1roOVmkyzbpPPzSfpHCnFm0VXPmtQxW3Dn9\n6pfwQYuLAgMBAAECggEAH6iDT5XIC0ZtWzqPYjYnVOvr+v1rgagMLJgt7HHEOB/O\nVuaEp5H9prXe+wE67pyRpyHNUqHCX0rNSvldJ0hVfqBY/Aj6V1NviPFqBebHedAB\nrhVmLelPPB3EcLWC74JWeiAYMvgLKc2nLRiti+ljpWZESEe2AhZC+0B+lcuDU+jJ\nrGm2/DoTepB/EAOLFNGIZsst1ZBXt0pXnERTyjAkpQ8yzFKexWmHDU2pbst+8tO2\nH0wAUp8CcDLIixGK5YR1bSzKdUEj6oyJUwV0k08djqG0laFUg+UiamJv5xUtSOPS\nAlvceghp8QoxaXoOdkFnuyoQVKwbbG1kDRroHoknlQKBgQDXpGHyXv2DUzqwkPrj\n7Ovbe/c0uFSv+06M9wY66vsZEhukaNAnrwUlS6wIDCDUqpRyB+EtA8XOYQoTUoX0\n4+ZLFNJqgEtGBIPxWU8aDsayqHOsfaQpboesu1978V6fUiV3L4Bklb4ca1Bmi1Md\nPNo+Dp4NOUT+TZwNryGuSerAtwKBgQC+fJW9BcWrKM3wBcEX9m31tqK7bPKA3btf\nfuAAZ/UM0eKEbvolTETHy6Tr4a4AwX1WiX4jEOOiKPpqL2/q51s4rcKUpQYVQCyB\ntoK+0CXQ8+tWpZfzNgtZceu44+gsFoXgEz4BDHW1IFNjzyTiJglr1BZ2RhUrZWek\nIFHDUlmPzQKBgCCp5qg22UG2LrKmE0rJDWTenzBeJ33MnDZgCJKOG2DNzGAX/Ee2\njBn9H17Mr4BnIjsvlF0kMCc1rbgFjQLuLmj7C3BUZJKDhpTdSU0SJejT+UmMcnxQ\nIL76VtlIU2PgpooqKNGTmQtm+fO+cOWB3TD/N9Oa9CdtDBFKkNh8m9F7AoGBAK5M\nEzuNj4yI3r80lLXXcFA4GHlFPDQ8L5o23sKgXPKpDgq9/TeprPngVfzcWLoqUgSf\n9IIjjxavRktpMpAPuEGJhRU8Vu+U8+SQ2tu8XA3xUzLKfNo3ZnUmr1lTePr2dPNO\nyBpvizj75jHatdYUleRLgW4hvHcj54yfYhFGRds1AoGBAKkziQSVBCkL37/3oEsv\nFPBigdICmD4+zoSp2+9V9Br39q6xl0bUftegNc6Z0g8kpHIh2SlPsZh27vvAw00R\navae57X2dl6A7m+htcsHK4oYpKwBo88hpXrS+sA0WRj1N8ezKNch1RaBFObgqHAZ\nFasQuW2rAhN4SVwaShypV9sX\n-----END PRIVATE KEY-----\n",
+  "client_email": "terraform-admin@spartan-apricot-322906.iam.gserviceaccount.com",
+  "client_id": "110279015615315551991",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/terraform-admin%40spartan-apricot-322906.iam.gserviceaccount.com"
+}
