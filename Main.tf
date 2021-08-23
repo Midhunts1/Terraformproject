@@ -1,4 +1,5 @@
 provider "google" {
+        credentials = "${file("spartan-aprico.json")}"
   	project = "spartan-apricot-322906"
   	region = "asia-east1"
 	zone = "asia-east1-a"
